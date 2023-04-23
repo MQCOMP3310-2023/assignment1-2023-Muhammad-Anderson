@@ -1,6 +1,11 @@
 /**
- * @name Comp3310 Assignment 1 Exercise 11 query
- * @problem.severity Warning
+ * @id comp3310-query
+ * @name query for COMP3310 assignment
+ * @description This is a query for the COMP3310 assignment.
+ * @kind problem
+ * @problem.severity error
+ * @precision high
+ * @tags security
  */
 
 import java
