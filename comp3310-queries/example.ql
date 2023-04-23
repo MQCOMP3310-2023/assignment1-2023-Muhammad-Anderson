@@ -1,6 +1,5 @@
 /**
  * @name Comp3310 Assignment 1 Exercise 11 query
- * @kind problem
  * @problem.severity Warning
  */
 
