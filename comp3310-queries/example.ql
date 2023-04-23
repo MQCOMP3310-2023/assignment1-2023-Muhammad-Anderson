@@ -25,6 +25,7 @@ where
             call.getArgument(0) = getMessage
         )
     )
-select call
+    select call, "Detected a call to 'printStackTrace()' or printing 'getMessage' which is not a recommended practice."
+
 
 
